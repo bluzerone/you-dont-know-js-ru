@@ -8,11 +8,11 @@
 	* Тип, как бы он ни назывался...
 	* Встроенные типы
 	* Значения как типы
-* Chapter 2: Values
-	* Arrays
-	* Strings
-	* Numbers
-	* Special Values
+* Глава 2: Типы данных
+	* Массивы
+	* Строгки
+	* Числа
+	* Специальные значения
 	* Value vs Reference
 * Chapter 3: Natives
 	* Internal `[[Class]]`
